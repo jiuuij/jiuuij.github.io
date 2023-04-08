@@ -20,7 +20,7 @@ title                    : "Jiu's develog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jiu kim"
-description              : "An amazing website."
+description              : "Growth as a developer"
 url                      : "https://jiuuij.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
