@@ -171,15 +171,13 @@
     {% when "utterances" %}
       <h4 class="page__comments-title">{{ comments_label }}</h4>
       <section id="utterances-comments"></section>
-    <script>
-      src=""
-      repo="jiuuij.github.io"
-      issue-term="pathname"
-      label="comments"
-      theme="gruvbox-dark"
-      crossorigin="anonymous"
-      async
-   </script>
+<script src="https://utteranc.es/client.js"
+        repo="jiuuij/jiuuij.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
       <h4 class="page__comments-title">{{ comments_label }}</h4>
       <section id="giscus-comments"></section>
     {% when "custom" %}
